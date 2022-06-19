@@ -1,0 +1,4 @@
+qrcode
+image
+Pillow
+colorama
